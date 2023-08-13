@@ -1,4 +1,4 @@
-# Flutter Learning Samples Repository
+# Flutter Learning Samples
 
 Welcome to the Flutter Learning Samples repository! This repository contains a collection of sample Flutter projects to help you learn various aspects of Flutter development. Each project focuses on a specific topic or concept, making it easier for you to explore and understand different Flutter features.
 
