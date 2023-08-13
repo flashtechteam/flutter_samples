@@ -8,13 +8,14 @@ The repository is organized into folders, each representing a different sample p
 ## Getting Started
 Clone this repository to your local machine:
 
-bash
+```
 git clone https://github.com/your-username/flutter-learning-samples.git
+```
 Navigate to the project you're interested in:
 
-bash
+```
 cd flutter_samples/project-name
-
+```
 Follow the instructions provided in the project's README file to set up, run, and explore the sample project.
 
 ## List of Sample Projects
