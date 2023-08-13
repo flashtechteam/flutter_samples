@@ -26,10 +26,8 @@ Follow the instructions provided in the project's README file to set up, run, an
 ## Contact us
  
 ### Sherif Alsayed 
-1. [Facebook](https://www.facebook.com/sherifhasan25/)
-2. [Linkedin](https://www.linkedin.com/in/sherif-alsayed/)
+1. [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sherifhasan25/)
+2. [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherif-alsayed/)
 
 ### Ahmed Nafea
-1. [Facebook](https://www.facebook.com/ahmednafea1997)
-2. [Linkedin](https://www.linkedin.com/in/a7mednafe3/)
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmednafea1997) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a7mednafe3)
