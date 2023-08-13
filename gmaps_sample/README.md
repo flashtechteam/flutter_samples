@@ -1,8 +1,5 @@
 # Google maps sample
 
-
-Flutter sample that demonstrates how to get the user's current location and display it on a map using a marker. You can customize this template further based on your project's structure and additional information.
-
 Google Map with Current Location Marker Sample
 This Flutter project showcases how to obtain the user's current location and display it on a map using a marker.
 
