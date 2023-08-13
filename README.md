@@ -19,6 +19,6 @@ cd flutter_samples/project-name
 Follow the instructions provided in the project's README file to set up, run, and explore the sample project.
 
 ## List of Sample Projects
-1. Widget samples 1: Flutter project show the usage of diffrent widgets.
+1. Widget samples 1: Flutter project show the usage of different flutter widgets.
 2. Google maps sample 2: Flutter project show the usage of google maps and get user's current location.
 
