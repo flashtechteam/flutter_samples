@@ -25,9 +25,11 @@ Follow the instructions provided in the project's README file to set up, run, an
 
 ## Contact us
  
-Sherif Alsayed 
-[https://www.facebook.com/sherifhasan25/]: http://i.imgur.com/fep1WsG.png
+### Sherif Alsayed 
+1. [Facebook](https://www.facebook.com/sherifhasan25/)
+2. [Linkedin](https://www.linkedin.com/in/sherif-alsayed/)
 
-Ahmed Nafea
-[https://www.facebook.com/ahmednafea1997]: http://i.imgur.com/fep1WsG.png
+### Ahmed Nafea
+1. [Facebook](https://www.facebook.com/ahmednafea1997)
+2. [Linkedin](https://www.linkedin.com/in/a7mednafe3/)
 
