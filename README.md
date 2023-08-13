@@ -1,1 +1,23 @@
-# flutter_samples
+# Flutter Learning Samples Repository
+
+Welcome to the Flutter Learning Samples repository! This repository contains a collection of sample Flutter projects to help you learn various aspects of Flutter development. Each project focuses on a specific topic or concept, making it easier for you to explore and understand different Flutter features.
+
+## Project Structure
+The repository is organized into folders, each representing a different sample project. Each project folder contains its own README file, source code, and any additional resources required for that project.
+
+## Getting Started
+Clone this repository to your local machine:
+
+bash
+git clone https://github.com/your-username/flutter-learning-samples.git
+Navigate to the project you're interested in:
+
+bash
+cd flutter_samples/project-name
+
+Follow the instructions provided in the project's README file to set up, run, and explore the sample project.
+
+## List of Sample Projects
+1. Widget samples 1: Flutter project show the usage of diffrent widgets.
+2. Google maps sample 2: Flutter project show the usage of google maps and get user's current location.
+
