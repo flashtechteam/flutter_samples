@@ -20,6 +20,6 @@ Follow the instructions provided in the project's README file to set up, run, an
 
 ## List of Sample Projects
 
-1. Widget samples: Flutter project show the usage of different flutter widgets.
-2. Google maps sample: Flutter project show the usage of google maps and get user's current location.
+1. [Widget samples](https://github.com/flashtechteam/flutter_samples/tree/main/widgets_samples): Flutter project show the usage of different flutter widgets.
+2. [Google maps sample](https://github.com/flashtechteam/flutter_samples/tree/main/gmaps_sample): Flutter project show the usage of google maps and get user's current location.
 
