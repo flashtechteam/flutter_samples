@@ -9,7 +9,7 @@ The repository is organized into folders, each representing a different sample p
 Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/flutter-learning-samples.git
+git clone https://github.com/flashtechteam/flutter_samples.git
 ```
 Navigate to the project you're interested in:
 
