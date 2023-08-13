@@ -3,6 +3,7 @@ import 'package:widgets_samples/widgets/column.dart';
 import 'package:widgets_samples/widgets/gridview.dart';
 import 'package:widgets_samples/widgets/listview.dart';
 import 'package:widgets_samples/widgets/row.dart';
+import 'package:widgets_samples/widgets/stack.dart';
 import 'package:widgets_samples/widgets/textfield.dart';
 
 import 'widgets/circle_avatar.dart';
@@ -102,6 +103,15 @@ class HomeScreen extends StatelessWidget {
                         builder: (context) => const GridViewSample()));
               },
               child: const Text('Grid view Sample'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) => const StackSample()));
+              },
+              child: const Text('Stack Sample'),
             ),
             ElevatedButton(
               onPressed: () {
