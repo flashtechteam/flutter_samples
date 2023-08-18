@@ -1,3 +1,3 @@
 # A redux example application
 
-This is an application which uses [flutter_redux](https://pub.dev/packages/flutter_redux) <br /> [redux](https://pub.dev/packages/redux) as a state management tool.
+This Flutter project is a simple application that fetches random dog photos from an API using the Dio library and utilizes Redux for managing the app's state.
