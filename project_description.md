@@ -10,10 +10,14 @@ Normal User:
 
 1. Browse and Search Properties: Normal users can search and view properties listed in the app.
 2. View on Google Maps: Properties can be viewed on the integrated Google Maps to get a better idea of their locations.
-Property Owner:
+3. View available properties : Properties can be viewed  as a list 
 
-1. Add and Edit Properties: Property owners have the ability to add new properties to the app, including details like property type, location, price, and images. They can also edit their existing property listings.
+Property Owner:
+1. Add , Edit or delete Properties: Property owners have the ability to add new properties to the app, including details like property type, location, price, and images. They can also edit their existing property listings.
+2. View on Google Maps: Properties can be viewed on the integrated Google Maps to get a better idea of their locations.
+3. View available properties : Properties can be viewed  as a list 
 Profile Screens
+
 Every user has their own profile screen where they can:
 
 1. View Profile Information: Users can see their personal information and account details.
