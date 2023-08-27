@@ -21,8 +21,7 @@ Profile Screens
 Every user has their own profile screen where they can:
 
 1. View Profile Information: Users can see their personal information and account details.
-2. View Listed Properties (Property Owners): Property owners can see a list of properties they have listed.
-3. View Saved Properties (Normal Users): Normal users can see a list of properties they have saved or marked as favorites.
+2. View Saved Properties (Normal Users): Normal users can see a list of properties they have saved or marked as favorites.
 
 ## Contact us
  
