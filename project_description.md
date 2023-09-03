@@ -24,7 +24,7 @@ Every user has their own profile screen where they can:
 2. View Saved Properties (Normal Users): Normal users can see a list of properties they have saved or marked as favorites.
 
 ## APIs Documentation:
- [<img src="https://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-Images.png" height="48"/>](https://app.swaggerhub.com/apis/ahmednafea/property_finder/1.0.0)
+ [<img src="https://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-Images.png" height="48"/>](https://app.swaggerhub.com/apis-docs/ahmednafea/property_finder/1.0.0)
 
 ## Contact us
  
