@@ -42,17 +42,13 @@ class HomeScreen extends StatelessWidget {
           children: [
             ElevatedButton(
               onPressed: () {
-                Navigator.push(context,
-                    MaterialPageRoute(builder: (context) => const RowSample()));
+                Navigator.push(context, MaterialPageRoute(builder: (context) => const RowSample()));
               },
               child: const Text('Row Sample'),
             ),
             ElevatedButton(
               onPressed: () {
-                Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => const ColumnSample()));
+                Navigator.push(context, MaterialPageRoute(builder: (context) => const ColumnSample()));
               },
               child: const Text('Column Sample'),
             ),
@@ -70,73 +66,48 @@ class HomeScreen extends StatelessWidget {
               },
               child: const Text(
                 'Text Button Sample',
-                style: TextStyle(
-                    color: Colors.red,
-                    decoration: TextDecoration.underline,
-                    fontSize: 17,
-                    fontWeight: FontWeight.bold),
+                style: TextStyle(color: Colors.red, decoration: TextDecoration.underline, fontSize: 17, fontWeight: FontWeight.bold),
               ),
             ),
             ElevatedButton(
               onPressed: () {
-                Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => const ListViewSample()));
+                Navigator.push(context, MaterialPageRoute(builder: (context) => const ListViewSample()));
               },
               child: const Text('ListView Sample'),
             ),
             ElevatedButton(
               onPressed: () {
-                Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => const ListViewBuilderSample()));
+                Navigator.push(context, MaterialPageRoute(builder: (context) => const ListViewBuilderSample()));
               },
               child: const Text('ListView  builder Sample'),
             ),
             ElevatedButton(
               onPressed: () {
-                Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => const GridViewSample()));
+                Navigator.push(context, MaterialPageRoute(builder: (context) => const GridViewSample()));
               },
               child: const Text('Grid view Sample'),
             ),
             ElevatedButton(
               onPressed: () {
-                Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => const StackSample()));
+                Navigator.push(context, MaterialPageRoute(builder: (context) => const StackSample()));
               },
               child: const Text('Stack Sample'),
             ),
             ElevatedButton(
               onPressed: () {
-                Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => const CircleAvatarSample()));
+                Navigator.push(context, MaterialPageRoute(builder: (context) => const CircleAvatarSample()));
               },
               child: const Text('Circle Avatar Sample'),
             ),
             ElevatedButton(
               onPressed: () {
-                Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => const ContainerSample()));
+                Navigator.push(context, MaterialPageRoute(builder: (context) => const ContainerSample()));
               },
               child: const Text('Container Sample'),
             ),
             ElevatedButton(
               onPressed: () {
-                Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => const TextFieldSample()));
+                Navigator.push(context, MaterialPageRoute(builder: (context) => const TextFieldSample()));
               },
               child: const Text('TextField Sample'),
             ),

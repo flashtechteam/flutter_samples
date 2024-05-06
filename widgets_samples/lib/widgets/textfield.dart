@@ -10,6 +10,8 @@ class TextFieldSample extends StatefulWidget {
 class TextFieldSampleState extends State<TextFieldSample> {
   final TextEditingController emailController = TextEditingController();
   final TextEditingController passwordController = TextEditingController();
+  final FocusNode emailFN = FocusNode();
+  final FocusNode passwordFN = FocusNode();
 
   void _submitForm() {
     if (emailController.text.isNotEmpty && passwordController.text.isNotEmpty) {
@@ -31,6 +33,8 @@ class TextFieldSampleState extends State<TextFieldSample> {
           children: [
             TextField(
               controller: emailController,
+              focusNode: emailFN,
+              onEditingComplete: () => FocusScope.of(context).requestFocus(passwordFN),
               keyboardType: TextInputType.emailAddress,
               decoration: const InputDecoration(
                 labelText: 'Email address',
@@ -41,8 +45,13 @@ class TextFieldSampleState extends State<TextFieldSample> {
             const SizedBox(height: 16),
             TextField(
               controller: passwordController,
+              focusNode: passwordFN,
               keyboardType: TextInputType.text,
+              onSubmitted: (val) {
+                debugPrint(val);
+              },
               obscureText: false,
+              textInputAction: TextInputAction.go,
               decoration: const InputDecoration(
                 labelText: 'Password ',
                 hintText: 'Enter password',

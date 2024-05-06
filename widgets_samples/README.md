@@ -10,9 +10,10 @@ This Flutter project provides examples and demonstrations for various commonly u
 5. Container
 6. Elevated Button
 7. Text Button
-8. Snackbar
+8. Snack bar
 9. GridView
 10. CircleAvatar
 11. ListTile
 12. Stack
 13. Positioned
+14. Card
